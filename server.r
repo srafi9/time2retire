@@ -1,8 +1,8 @@
 library(shiny)
 #
 # Idea and original code by Pierre Chretien
-# Small updates by Michael Kapler 
-# More mods by Lin Crampton
+ 
+
 #
 
 shinyServer(function(input, output) {
