@@ -67,3 +67,4 @@ Option 2: Download the `server.R` and `ui.R` files and place them in a directory
 library(shiny)
 runApp('time2retire')
 ```
+  
