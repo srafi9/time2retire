@@ -32,4 +32,4 @@ sidebarLayout(position="right",
 		) #mainPanel
 ) #sidebarLayout
 ) #fluidPage
-) #shinyUI
+) #shinyUI 
