@@ -1,8 +1,6 @@
 library(shiny)
 #
-# Idea and original code by Pierre Chretien
- 
-
+# 
 #
 
 shinyServer(function(input, output) {
